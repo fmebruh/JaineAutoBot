@@ -1,0 +1,17 @@
+{
+  "name": "chain-scripters-swap-bot",
+  "version": "1.0.0",
+  "description": "Multi-Account Swapping Bot by Chain Scripters",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1"
+  },
+  "author": "Chain Scripters",
+  "license": "MIT"
+}
